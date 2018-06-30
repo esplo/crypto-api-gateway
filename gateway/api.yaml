@@ -1,0 +1,5 @@
+endpoints:
+  - cost: 10
+    path: '/'
+  - cost: 250
+    path: '/heavy'
