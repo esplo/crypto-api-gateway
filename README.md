@@ -2,6 +2,8 @@
 
 This repository contains three programs to illustrate a paid API architecture based on Coinhive.
 
+[visit demo](https://mining-gateway.firebaseapp.com/)
+
 [![demo](https://github.com/esplo/crypto-api-gateway/blob/master/cryp-paid-api.gif)]
 
 - backend sample -> `api-sample`
